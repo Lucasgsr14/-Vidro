@@ -95,7 +95,7 @@
   * Temperatura
   * Última Manutenção
  
-# Corte
+## Corte
 
 * Motor
 
@@ -106,4 +106,29 @@
   * Fim de curso 1
   * Fim de curso 2
 
-# 
+## Esteira 1
+
+* Motor
+
+  * Vibração
+  * Corrente
+  * Temperatura
+  * Última Manutenção
+
+## Esteira 2
+
+* Motor
+
+  * Vibração
+  * Corrente
+  * Temperatura
+  * Última Manutenção
+
+## Esteira 3
+
+* Motor
+
+  * Vibração
+  * Corrente
+  * Temperatura
+  * Última Manutenção
