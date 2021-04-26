@@ -1,4 +1,4 @@
-# Fábrica de copos e taças de vidro
+# Fábrica de Celulose
 
 ## Reservatório 1 (Vaso de Digestão)
 
