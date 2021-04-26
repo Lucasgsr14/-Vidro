@@ -33,7 +33,8 @@
   * Sensor Monogás
   * Teste de Estanqueidade
   * Pressão
-  *  Temperatura
+  * Temperatura
+  * Nível
 
 * Compressor
 
@@ -52,6 +53,7 @@
   * Teste de Estanqueidade
   * Pressão
   * Temperatura
+  * Nível
 
 * Compressor
 
@@ -85,6 +87,7 @@
   * Vibração
   * Pressão
   * Temperatura
+  * Nível
 
 * Compressor
 
@@ -103,6 +106,7 @@
   * Vibração
   * Pressão
   * Temperatura
+  * Nível
 
 * Compressor
 
